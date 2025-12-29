@@ -85,8 +85,6 @@ Role-Based Access Control is a security mechanism that:
 
 ## 🛠 Technologies Used
 
-*(Update this if needed)*
-
 - Programming Language: Java / Python / JavaScript
 - Framework: Spring Boot / Django / Express / FastAPI
 - Database: MySQL / MongoDB / PostgreSQL
